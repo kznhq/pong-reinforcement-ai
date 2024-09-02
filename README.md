@@ -1,2 +1,2 @@
 # pong-reinforcement-ai
-1 player Pong and the other 
+WIP, the end goal is to build Pong in C++ then build a reinforcement learning AI bot in Python to play against the player
